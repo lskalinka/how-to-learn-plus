@@ -52,3 +52,6 @@
 @import url(./blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(./blocks/footer/__social-icon/footer__social-icon.css);
 @import url(./blocks/rotation/rotation.css);
+@import url(./blocks/video/video.css);
+@import url(./blocks/video/__iframe/video__iframe.css);
+@import url(./blocks/video/__iframes/video__iframes.css);
