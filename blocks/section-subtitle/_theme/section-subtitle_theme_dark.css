@@ -1,5 +1,6 @@
 .section-subtitle_theme_dark {
     width: 60%;
     margin: 20px auto 0;
-    text-align: center;    
+    text-align: center; 
+    z-index: 1;   
 }
