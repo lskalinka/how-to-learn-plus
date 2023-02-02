@@ -1,4 +1,6 @@
 .two-columns__brief {
+    margin: 0;
+    padding: 0;
     width: 175px;
     align-self: stretch;
     line-height: 1.2;

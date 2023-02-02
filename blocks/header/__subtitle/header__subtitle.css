@@ -1,4 +1,6 @@
 .header__subtitle {
+    margin: 0;
+    padding: 0;
     position: absolute;
     width: 388px;
     left: 64px;
