@@ -3,4 +3,5 @@
     align-items: center;
     margin: 50px auto -50px;
     justify-content: center;
+    list-style-type: none;
 }

@@ -2,5 +2,6 @@
     display: flex;
     width: 920px;
     flex-wrap: wrap;
-    margin: 0 auto;    
+    margin: 0 auto;
+    list-style-type: none;    
     }
